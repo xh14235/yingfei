@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "0001",
+      "proName": "离心风机",
+      "show": false,
+      "imgUrl": "http://www.infinair.com.cn/d/default/img/yfbcsl/1.jpg"
+    },
+    {
+      "id": "0002",
+      "proName": "屋顶风机",
+      "show": false,
+      "imgUrl": "http://www.infinair.com.cn/d/default/img/yfbcsi/1.jpg"
+    },
+    {
+      "id": "0003",
+      "proName": "轴流风机",
+      "show": false,
+      "imgUrl": "http://www.infinair.com.cn/d/default/img/yfbcsg/1.jpg"
+    },
+    {
+      "id": "0004",
+      "proName": "隧道风机",
+      "show": false,
+      "imgUrl": "http://www.infinair.com.cn/d/default/img/yfbcsi/1.jpg"
+    },
+    {
+      "id": "0005",
+      "proName": "隧道风机",
+      "show": false,
+      "imgUrl": "http://www.infinair.com.cn/d/default/img/yfbcsl/1.jpg"
+    },
+    {
+      "id": "0006",
+      "proName": "隧道风机",
+      "show": false,
+      "imgUrl": "http://www.infinair.com.cn/d/default/img/yfbcsk/1.jpg"
+    }
+  ]
+}
